@@ -1,5 +1,5 @@
-import avengers from './images/avengers.png'
-import bg from './images/bg.jpg'
+import avengers from './img/avengers.png'
+import bg from './img/bg.jpg'
 
 export const DATA = [
 	{

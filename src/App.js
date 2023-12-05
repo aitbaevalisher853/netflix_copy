@@ -1,12 +1,18 @@
 import React from "react";
 import Header from "./components/header/header";
-import styles from "./index.scss";   
+import Main from "./components/main/main";
+import './index.scss'
+ 
 
 
 function App() {
   return (
-    <Header />
-  )
+    <>
+      <Header />
+      <Main /> 
+    </>
+    
+     )
   
 }
 

@@ -5,7 +5,7 @@ const Profile = () => {
   return (
     <div className={styles['profile-wrapper']}>
       <div className={styles.notification}>
-        <i class='bx bsx-bell'></i>
+        <i class='bx bx-bell'></i>
         <span></span>
       </div>
       <div className={styles.profile}>
